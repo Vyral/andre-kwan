@@ -11,9 +11,9 @@ layout: post
 title: A Fox in Space
 date: 2018-05-07
 tags:
-  - Market Update
-  - Real Estate
-  - Home Seller Tips
+  - First Time Homebuyer
+  - Refinance
+  - Home Loan Types
 excerpt: 'Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.'
 enclosure:
 pullquote: This is an example of a pull quote
