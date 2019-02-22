@@ -1,17 +1,21 @@
 audit_header: false
 title: San Diego Mortgage Video Blog with Andre Kwan
 description: Our mission at PrimeLending is to be your best resource for San Diego real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The PrimeLending, your professional San Diego Real Estate Agents.
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
-show_custom_links_new_tab: false
+  - title: Download Checklist
+    url: https://drive.google.com/open?id=1asKI2GToeHBUq5glJEF8CD7jaA76N4_n
+  - title: Request
+    url: consultation-https://lo.primelending.com/andre.kwan/about/contact-me
+  - title: Apply For A Loan
+    url: https://www.primelending.com/about-us/process/ 
+show_custom_links_new_tab: true
 custom_links_new_tab:
-  - title:
-    url:
+  - title: Apply Now
+    url: https://apply.primelending.com/andre.kwan/SPAs/UserLogin/index.html
 
 client:
-  name: Andre Kwan
+  name: PrimeLending
   title:
   license_number: 'NMLS# 188589'
   about_markdown: |
@@ -88,7 +92,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 60
-  hero_text: San Diego Real Estate Video Blog
+  hero_text: San Diego Mortgage Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
