@@ -27,7 +27,7 @@ client:
   phone2:
   phone2_type:
   email: socal@primelending.com
-  url: http://www.socalprimelending.com
+  url: http://primelending.com
 
 CTAs:
   first_CTA_text: Request Consultation
