@@ -1,11 +1,11 @@
 audit_header: false
 title: San Diego Mortgage Video Blog with Andre Kwan
 description: Our mission at PrimeLending is to be your best resource for San Diego real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The PrimeLending, your professional San Diego Real Estate Agents.
-show_custom_links: true
+show_custom_links: false
 custom_links:
   - title: Download Checklist
     url: https://drive.google.com/open?id=1asKI2GToeHBUq5glJEF8CD7jaA76N4_n
-show_custom_links_new_tab: true
+show_custom_links_new_tab: false
 custom_links_new_tab:
   - title: Apply Now
     url: https://apply.primelending.com/andre.kwan/SPAs/UserLogin/index.html
@@ -13,7 +13,7 @@ custom_links_new_tab:
 client:
   name: PrimeLending
   title:
-  license_number: 'NMLS# 188589'
+  license_number: 'NMLS# 13649'
   about_markdown: |
     At the heart of your PrimeLending experience is a personal relationship with a home loan expert who will guide you through each step of the mortgage process. In fact, our entire team of more than 2,800 passionate employees located throughout the United States are focused on helping to turn your homeownership goals into a reality.
 
@@ -22,7 +22,7 @@ client:
   brokerage:
   market: San Diego
   address: 4747 Executive Drive Suite 520 San Diego, CA 92121
-  phone: 858-999-8777
+  phone: toll-free 1-833-760-9979
   phone_type:
   phone2:
   phone2_type:
