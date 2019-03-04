@@ -37,7 +37,7 @@ CTAs:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "Contact Me Today"
+    CTA_title: "Contact Us"
     CTA_text: "Lets Talk! We can help you."
     CTA_link_text: "Request Consultation"
     CTA_url: https://lo.primelending.com/andre.kwan/about/contact-me
