@@ -31,23 +31,23 @@ client:
 
 CTAs:
   first_CTA_text: Request Consultation
-  first_CTA_URL: https://lo.primelending.com/andre.kwan/about/contact-me
+  first_CTA_URL: https://lo.primelending.com/mradi/about/contact-me
   second_CTA_text: Apply For A Loan
-  second_CTA_URL: https://www.primelending.com/about-us/process/ 
+  second_CTA_URL: https://apply.primelending.com/mradi/SPAs/UserLogin/index.html#/userLogin
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "Contact Us"
     CTA_text: "Lets Talk! We can help you."
     CTA_link_text: "Request Consultation"
-    CTA_url: https://lo.primelending.com/andre.kwan/about/contact-me
+    CTA_url: https://lo.primelending.com/mradi/about/contact-me
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: "The PrimeLending Experience"
-    CTA_text2: "Our process starts with you."
-    CTA_link_text2: "How to Apply For A Loan"
-    CTA_url2: https://www.primelending.com/about-us/process/
+    CTA_text2: "Learn about ifferent types of loans."
+    CTA_link_text2: "Loan Types"
+    CTA_url2: https://lo.primelending.com/mradi/home-loans/types-of-loans
 
 lender:
   show_section: false
