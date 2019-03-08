@@ -45,7 +45,7 @@ sidebar_CTA:
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: "The PrimeLending Experience"
-    CTA_text2: "Learn about ifferent types of loans."
+    CTA_text2: "Learn about different types of loans."
     CTA_link_text2: "Loan Types"
     CTA_url2: https://lo.primelending.com/mradi/home-loans/types-of-loans
 
