@@ -19,7 +19,7 @@ We’ve been mortgage professionals for over 30 years.
 
 We know how to guide you through a changing marketplace to help you secure the best loans and the best rates.
 
-We will be posting two video messages each month to keep you updated on everything going on with interest rates, mortgage programs, and the rest estate world.  
+We will be posting two video messages each month to keep you updated on everything going on with interest rates, mortgage programs, and the real estate world. &nbsp;
 
 They will be valuable and useful to help you stay on top of what’s happening in the lending community.
 
