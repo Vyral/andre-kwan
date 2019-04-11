@@ -2,7 +2,7 @@
 youtube_code:
 excerpt: >-
   Our monthly messages will keep you updated on current interest rates, mortgage
-  programs, and other information having to do with our real estate market.
+  programs, and our real estate market.
 enclosure:
 pullquote:
 enclosure_type:
