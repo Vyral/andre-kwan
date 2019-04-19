@@ -29,6 +29,6 @@ Each individual case is different, but we truly want you to get some knowledge o
 
 **Secondly, I would also ask your referral partner or Realtor for recommendations.** There’s typically a big difference between the different lenders out there because of their experience level, who they may know on the listing agent’s side, and the process through which they go about closing your loan.
 
-**Lastly, I’d recommend trying to get some recommendations online.** You’ll see a really great marketplace for local and national lenders that you can also use to figure out why they’re good from the consumers who have used them.
+**Lastly, you should try to find some recommendations online.** You’ll see a really great marketplace for local and national lenders that you can also use to figure out why they’re good from the consumers who have used them.
 
 If you have any questions for us in the meantime, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
