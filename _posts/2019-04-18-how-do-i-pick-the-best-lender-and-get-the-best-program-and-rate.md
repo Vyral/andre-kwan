@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do I Pick the Best Lender and Get the Best Program and Rate?
-date: 2019-04-18 15:26:55
+date: 2019-04-18 15:26:00
 tags:
   - Budgeting for a Home
 excerpt: >-
@@ -14,16 +14,16 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/andre-kwan-ss--lender-email.jpg
-youtube_code: 8Al8D9qgxQU
+youtube_code: J-GJOk_2CPM
 ---
 
 {% include youtube.html %}
 
-**We’re asked all the time by clients, agents, and referral partners, “Why are your guys the best lenders, and how do we get the best rates and programs possible?”&nbsp;**
+**We’re asked all the time by clients, agents, and referral partners, “Why are your guys the best lenders, and how do we get the best rates and programs possible?” **
 
 Each individual case is different, but we truly want you to get some knowledge out of this so we’re going to let you know exactly how to go about finding the answer to this question yourself.
 
-**I’d always start off by getting a written loan estimate.** This allows you to compare apples to apples across individual lenders.&nbsp;
+**I’d always start off by getting a written loan estimate.** This allows you to compare apples to apples across individual lenders. 
 
 {% include pullquote.html %}
 
