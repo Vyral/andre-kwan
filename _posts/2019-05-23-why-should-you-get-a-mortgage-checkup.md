@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Should You Get a Mortgage Checkup?
-date: 2019-05-23 15:41:03
+date: 2019-05-23 15:41:00
 tags:
   - Budgeting for a Home
 excerpt: Getting an annual mortgage checkup can benefit you as a homeowner—here’s how.
