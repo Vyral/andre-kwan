@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Should You Do if You Want to Renovate Your Home?
-date: 2019-05-30 17:22:44
+date: 2019-05-30 17:22:00
 tags:
   - First Time Homebuyer
 excerpt: >-
@@ -28,8 +28,8 @@ Today I’m here to talk about home renovations and the options that you have if
 
 {% include pullquote.html %}
 
-**A home equity line of credit can be obtained at your local bank,** but you will have to qualify for the loan, and they’ll typically only go up to 80% to 90% of the loan to value of the home. Interest rates are variable, too, and can alter the cost of your loan.
+**A home equity line of credit can be obtained at your local bank,** but you will have to qualify for the loan, and they’ll typically only go up to 80% to 90% of the loan-to-value of the home. Interest rates are variable, too, and can alter the cost of your loan.
 
-**Finally, a renovation home loan allows you to borrow money based on the “as-completed” value of your renovation.** You can get bids on your project, have them looked at by an appraiser, and give you a determined value as if they are already completed. This allows you to access more money to accomplish the precise renovations you want to do.
+**Finally, a renovation home loan allows you to borrow money based on the “as-completed” value of your renovation.** You can get bids on your project, have them looked at by an appraiser, and receive a determined value as if they are already completed. This allows you to access more money to accomplish the precise renovations you want to do.
 
 If you have any questions for me about home renovations or how you can fund your future projects, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
