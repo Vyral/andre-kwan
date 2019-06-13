@@ -9,13 +9,13 @@ excerpt: >-
   different ways that you can go about financing them. Here is what we
   recommend.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Andre+Kwan/What+Should+You+Do+if+You+Want+to+Renovate+Your+Home_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Andre+Kwan/What+Should+You+Do+If+You+Want+To+Renovate+Your+Home_.mp4
 pullquote: It can take a while to save enough money to do a renovation.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/may02ss-email.jpg
-youtube_code: '-hzTeaAA1aQ'
+youtube_code: D2oZuUOw78w
 ---
 
 {% include youtube.html %}
