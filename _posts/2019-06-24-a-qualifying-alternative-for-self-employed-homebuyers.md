@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Qualifying Alternative for Self-Employed Homebuyers
-date: 2019-06-24 15:37:10
+date: 2019-06-24 15:37:00
 tags:
   - Budgeting for a Home
 excerpt: >-
