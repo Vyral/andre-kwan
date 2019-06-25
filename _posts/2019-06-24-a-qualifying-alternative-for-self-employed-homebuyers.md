@@ -32,7 +32,7 @@ The Bank Statement program serves as a solution for these buyers because it give
 
 Then, we’ll take the sum total of those deposits from that 12- or 24-month period and find the average. If the bulk of those deposits have gone into your personal account, we’re able to use 100% of them for financing. If they’ve mostly gone into your business account, we’ll use about 50%. &nbsp;&nbsp;
 
-Why is this important for you to know? **The Bank Statement program can be used as a vehicle for refinancing your home or finding out how without any delay much you qualify for in a purchase.&nbsp;**
+Why is this important for you to know? **The Bank Statement program can be used as a vehicle for refinancing your home or finding out how much you qualify for in a purchase without any delay.&nbsp;**
 
 This is a great product that provides relief to self-employed buyers who aren’t having much luck getting qualified for a home loan through other channels.&nbsp;
 
