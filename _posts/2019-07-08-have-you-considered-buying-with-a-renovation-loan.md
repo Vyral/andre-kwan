@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have You Considered Buying With a Renovation Loan?
-date: 2019-07-08 14:47:45
+date: 2019-07-08 14:47:00
 tags:
   - Home Loan Types
 excerpt: >-
