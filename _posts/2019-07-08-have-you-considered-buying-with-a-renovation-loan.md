@@ -31,9 +31,9 @@ In the case of Freddie Mac’s HomeReady loans, neither of them have a limit in 
 
 {% include pullquote.html %}
 
-In most cases, the down payment requirement starts as low as 5%, but if you qualify as a first-time homebuyer, 3% is also available. The down payment is based on the purchase price plus the cost of your repairs. For example, if you buy a $300,000 home and make $100,000 worth or repairs, $400,000 is the number they’ll base your down payment off of. You also need a credit score of at least 620 to qualify.&nbsp;
+In most cases, the down payment requirement starts as low as 5%, but if you qualify as a first-time homebuyer, 3% is also available. The down payment is based on the purchase price plus the cost of your repairs. For example, if you buy a $300,000 home and make $100,000 worth of repairs, $400,000 is the number they’ll base your down payment off of. You also need a credit score of at least 620 to qualify.&nbsp;
 
-**The great part about renovations loans is they don’t require the home to be owner-occupied**—you can use it for an investment property or a second home. Unfortunately, you can’t use to fix and flip properties.&nbsp;
+**The great part about renovations loans is they don’t require the home to be owner-occupied**—you can use it for an investment property or a second home. Unfortunately, you can’t use them to fix and flip properties.&nbsp;
 
 When using a renovation loan, the value of the home is based on what it would appraise for after the renovations are made. Continuing with the example above, your home’s value could increase above and beyond $400,000 depending on the comparable sales in the surrounding neighborhood. In other words, **you’d be walking into equity in a situation where you otherwise wouldn’t be. &nbsp;**
 
