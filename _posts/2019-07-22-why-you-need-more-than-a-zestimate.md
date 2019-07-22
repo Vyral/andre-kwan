@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Need More Than a Zestimate
-date: 2019-07-22 14:53:56
+date: 2019-07-22 14:53:00
 tags:
   - Budgeting for a Home
 excerpt: >-
