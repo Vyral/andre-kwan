@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/cBFHXVtknoY'
 
 When you go to Zillow, you’re able to receive a Zestimate on your home or another property you’re looking at. However, can you trust these Zestimates?&nbsp;
 
-The answer is, unfortunately, no. According to Zillow’s website, a Zestimate is “A starting point in determining home value and not an appraisal.” A Zestimate is based on public and user-submitted data. **While public data is typically accurate, the user submitted data is anything but.&nbsp;**
+The answer is, unfortunately, no. According to Zillow’s website, a Zestimate is “A starting point in determining home value and not an appraisal.” A Zestimate is based on public and user-submitted data. **While public data is typically accurate, the user-submitted data is anything but.&nbsp;**
 
 There are some agents out there who help people increase their Zestimates, but that makes the home seem like its worth more than it is. Zestimates can be tweaked and manipulated, but the expert opinion of a real estate agent can not. **After all, Zillow has never been to your house and has no idea how it stacks up to others in the area.** A professional agent does.
 
@@ -32,4 +32,4 @@ Ultimately, Zillow is kind of like Webmd. If you’re curious about a symptom yo
 
 Agents have real knowledge of the market and can save you a lot of time, money, and frustration. Just like any profession, though, it’s hard to know who to trust because not all agents have the same knowledge and skills.&nbsp;
 
-**As a senior loan officer with over a decade of experience I work with some of the best agents in the area and would be happy to recommend one to you who can help.** If you have any other mortgage-related questions for me at all, don’t hesitate to reach out and give me a call or send me an email today. I look forward to hearing from you soon.
+**As a senior loan officer with over a decade of experience, I work with some of the best agents in the area and would be happy to recommend one to you who can help.** If you have any other mortgage-related questions for me at all, don’t hesitate to reach out and give me a call or send me an email today. I look forward to hearing from you soon.
