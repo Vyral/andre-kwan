@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Buy Investment Property If You Are Self-Employed or Salaried
-date: 2019-08-05 19:34:48
+date: 2019-08-05 19:34:00
 tags:
   - Home Loan Types
 excerpt: >-
