@@ -23,7 +23,7 @@ youtube_code: pAYM3zA5UiM
 
 Many people who are self-employed or salaried will have difficulty providing the documentation that is typically necessary when seeking a loan on the purchase of an investment property. Thankfully, **Prime Lending offers a product for people in this exact situation.&nbsp;**
 
-This product does not require applicants to submit their income tax returns or bank statements to qualify. Instead, an applicant’s ability to qualify depends on the property’s projected gross rental income as it relates to the investor’s monthly payments on it—otherwise known as a service ratio. The investor will also be expected to pay between 20% and 25% of the purchase price as a down payment
+This product does not require applicants to submit their income tax returns or bank statements to qualify. Instead, an applicant’s ability to qualify depends on the property’s projected gross rental income as it relates to the investor’s monthly payments on it—otherwise known as a service ratio. The investor will also be expected to pay between 20% and 25% of the purchase price as a down payment.
 
 **This loan product can be used on single-family properties, as well as multi-family properties with between two to four units.** The investor will also be expected to pay between 20% and 25% of the purchase price as a down payment.&nbsp;
 
