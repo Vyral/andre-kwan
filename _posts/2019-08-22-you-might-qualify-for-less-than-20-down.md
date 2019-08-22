@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You Might Qualify for Less Than 20% Down
-date: 2019-08-22 14:37:30
+date: 2019-08-22 14:37:00
 tags:
   - Budgeting for a Home
 excerpt: >-
