@@ -8,7 +8,8 @@ excerpt: >-
   Prime Lending has a loan product that makes it easier to purchase multiple
   investment properties without ever having to submit tax returns. Find out more
   with this quick message.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Andre+Kwan/How+to+Buy+Investment+Property+If+You+Are+Self-Employed+or+Salaried.mp4
 pullquote: >-
   This loan product makes it much easier for certain people to invest freely in
   as many rental properties as they please.
