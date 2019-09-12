@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   The belief that you need 20% down to buy a home is nothing more than a myth!
   Stay tuned for the truth.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Andre+Kwan/You+Might+Qualify+for+Less+Than+20%25+Down.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
