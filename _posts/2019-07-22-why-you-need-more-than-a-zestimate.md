@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Determining your home’s value is as easy as clicking a button these days, but
   is the value you’re getting really accurate? Here’s what you need to know.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Andre+Kwan/Why+You+Need+More+Than+a+Zestimate.mp4
 pullquote: Zillow is kind of like Webmd.
 enclosure_type: video/mp4
 enclosure_time:
