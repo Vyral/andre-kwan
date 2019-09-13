@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do Physician Home Loans Compare to Conventional Loans?
-date: 2019-09-13 14:31:26
+date: 2019-09-13 14:31:00
 tags:
   - Home Loan Types
 excerpt: >-
