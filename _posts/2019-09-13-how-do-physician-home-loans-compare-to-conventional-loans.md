@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   A physician mortgage loan carries a lot of advantages for certain buyers
   compared to more traditional options. Here’s what I mean.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Andre+Kwan/How+Do+Physician+Home+Loans+Compare+to+Conventional+Loans_.mp4
 pullquote: >-
   No matter what loan you’re considering, your lender will carefully examine
   three criteria: your credit, your income, and your collateral.
