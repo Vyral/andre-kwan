@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Miss Our Upcoming Estate Planning Event
-date: 2019-09-30 18:45:46
+date: 2019-09-30 18:45:00
 tags:
 excerpt: >-
   Do you want to learn the ins and outs of estate planning? If so, join us for
