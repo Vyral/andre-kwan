@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/jq-L7RWsUKs'
 
 {% include youtube.html %}
 
-*Do you want to learn the ins and outs of estate planning? If so, join us for our upcoming estate planning event.*
+<p style="text-align: center;"><em>Do you want to learn the ins and outs of estate planning? If so, join us for our upcoming estate planning event.</em></p>
 
 If you’ve ever wanted to learn more about estate planning, now is your chance. Our team has partnered with our great sponsors at Hilltop Securities to put on an exclusive estate planning event featuring one of California’s top experts in the field. You truly won’t want to miss this incredible learning opportunity. The event will take place on October 17th from 12:00 PM to 1:30 PM at Morgan Run Resort & Club, (5690 Cancha de Golf, Rancho Santa Fe, CA 92091).
 
