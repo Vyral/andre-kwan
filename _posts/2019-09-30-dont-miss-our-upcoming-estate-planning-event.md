@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Do you want to learn the ins and outs of estate planning? If so, join us for
   our upcoming estate planning event.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Andre+Kwan/Dont+Miss+Our+Upcoming+Estate+Planning+Event.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -17,7 +18,7 @@ youtube_code: 'https://youtu.be/jq-L7RWsUKs'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Do you want to learn the ins and outs of estate planning? If so, join us for our upcoming estate planning event.</em></p>
+*Do you want to learn the ins and outs of estate planning? If so, join us for our upcoming estate planning event.*
 
 If you’ve ever wanted to learn more about estate planning, now is your chance. Our team has partnered with our great sponsors at Hilltop Securities to put on an exclusive estate planning event featuring one of California’s top experts in the field. You truly won’t want to miss this incredible learning opportunity. The event will take place on October 17th from 12:00 PM to 1:30 PM at Morgan Run Resort & Club, (5690 Cancha de Golf, Rancho Santa Fe, CA 92091).
 
