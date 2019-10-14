@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Do You Need to Get Approved for a Mortgage?
-date: 2019-10-14 15:53:19
+date: 2019-10-14 15:53:00
 tags:
   - First Time Homebuyer
 excerpt: >-
