@@ -26,15 +26,15 @@ The home-buying journey should be simple and easy, and it’s my job to help you
 
 When we meet face to face, make sure you come prepared with your documentation so that I can do my part in providing you with all the different loan options you may be eligible for as a buyer. **Here is a list of the documentation you should bring:**
 
-**1\. Bring your two most recent Federal Tax Returns,** including your W-2s, or your K-1s if you’re self-employed.
+**1\. Your two most recent Federal Tax Returns,** including your W-2s, or your K-1s if you’re self-employed.
 
-**2\. Bring your two most recent pay stubs.**
+**2\. Your two most recent pay stubs.**
 
 {% include pullquote.html %}
 
-**3\. Bring your assets.** This includes all documentation relating to your savings accounts, checking accounts, 401(k), and other retirement account information.
+**3\. Your assets.** This includes all documentation relating to your savings accounts, checking accounts, 401(k), and other retirement account information.
 
-**4\. Bring your driver’s license, passport, and any other official ID.**
+**4\. Your driver’s license, passport, and any other official ID.**
 
 My job is to provide you with all the tools you need to map out a proper gameplan to help you succeed in your home purchase. **You’ll end up feeling super confident so that you can start shopping and submitting offers with your real estate agent.**
 
