@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/bhgOJY8FuKY'
 
 {% include youtube.html %}
 
-*As your mortgage lender, I’ll need to gather some documentation from you to get you the best possible loan and interest rate. Here’s a list of the things that I’ll need.*
+<p style="text-align: center;"><em>As your mortgage lender, I’ll need to gather some documentation from you to get you the best possible loan and interest rate. Here’s a list of the things that I’ll need.</em></p>
 
 The home-buying journey should be simple and easy, and it’s my job to help you get prepared by providing you the tools and education to make the process smoother.
 
