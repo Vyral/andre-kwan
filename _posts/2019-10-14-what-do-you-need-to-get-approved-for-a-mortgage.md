@@ -14,13 +14,13 @@ pullquote: Having this documentation is essential for all homebuyers.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/andre-kwan-4-things-that-your-lender-will-need-youtube.png
+youtube_alternate_image: /uploads/andre-kwan-4-items-that-your-lender-will-need-youtube.png
 youtube_code: 'https://youtu.be/bhgOJY8FuKY'
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>As your mortgage lender, I’ll need to gather some documentation from you to get you the best possible loan and interest rate. Here’s a list of the things that I’ll need.</em></p>
+*As your mortgage lender, I’ll need to gather some documentation from you to get you the best possible loan and interest rate. Here’s a list of the things that I’ll need.*
 
 The home-buying journey should be simple and easy, and it’s my job to help you get prepared by providing you the tools and education to make the process smoother.
 
