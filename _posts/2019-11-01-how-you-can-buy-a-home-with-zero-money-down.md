@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How You Can Buy a Home With Zero Money Down
-date: 2019-11-01 13:27:37
+date: 2019-11-01 13:27:00
 tags:
   - First Time Homebuyer
 excerpt: 'Don’t assume you can’t afford to buy a home. You can, and here’s how.'
