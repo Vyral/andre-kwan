@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/dPW3V5y3Knk'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Don’t assume you can’t afford to buy a home. You can, and here’s how.</em></p>
+
 If you’d like to buy a home but are worried you can’t afford it, I have good news: There are a few ways you can buy a home with 100% financing.&nbsp;
 
 The first is by **using a VA loan**, which is reserved for veterans and active duty members of the Armed Forces.
