@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/andre-kwan-100-financing-youtube.png
-youtube_code: 'https://youtu.be/dPW3V5y3Knk'
+youtube_code: 'https://youtu.be/NZuWMmKaiT0'
 ---
 
 {% include youtube.html %}
@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/dPW3V5y3Knk'
 
 If you’d like to buy a home but are worried you can’t afford it, I have good news: There are a few ways you can buy a home with 100% financing.&nbsp;
 
-The first is by **using a VA loan**, which is reserved for veterans and active duty members of the Armed Forces.
+The first is by **using a VA loan**, which is reserved for veterans and active-duty members of the Armed Forces.
 
 The second way you can purchase with 100% financing is by using our team’s very own **Wealth Builder Program**. This program allows you to buy with a 15- or 20-year fixed loan product, which will help you reduce the principal on your loan fairly quickly (aka building wealth via equity). Keep in mind that some restrictions apply for this loan, and these restrictions pertain to what state you but in, your occupancy type, and your credit score and income.&nbsp;
 
