@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Difference Between APR and Interest Rates
-date: 2019-11-22 14:17:17
+date: 2019-11-22 14:17:00
 tags:
   - Budgeting for a Home
 excerpt: >-
