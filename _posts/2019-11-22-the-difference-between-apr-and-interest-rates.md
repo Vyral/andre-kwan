@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/iUScSfX_CkM'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Knowing the difference between interest rates and annual percentage rates could save you thousands on your mortgage. Here’s what you need to know.</em></p>
+
 What is the difference between annual percentage rates (APR) and interest rates? **Both rates measure important, but distinct, costs associated with your home loan,** and understanding the difference between the two could save you thousands on your mortgage.&nbsp;
 
 The interest rate is the cost of borrowing the principal loan amount. It can be variable or fixed, but it’s always expressed as a percentage.
