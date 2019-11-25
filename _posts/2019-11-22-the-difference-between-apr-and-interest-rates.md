@@ -31,6 +31,6 @@ The interest rate is the cost of borrowing the principal loan amount. It can be 
 
 The annual percentage rate is a broader measure of the cost of your mortgage because it reflects the interest rate as well as other costs associated with your loans, such as lender fees, discount points, and some closing costs. The APR is also expressed as a percentage.
 
-The main difference between the two is that **the interest rate calculates your actual monthly payment, while the APR calculates the total cost of your loan.** You can use one or both to make apples-to-apples comparisons when shopping for a loan. If you’re only focused on getting the lowest monthly payment, I’d focus on the interest rate, but if you’re focused on the total cost of your loan, then you can use the APR as a tool to compare the total cost of two loans.
+The main difference between the two is that the interest rate calculates your actual monthly payment, while the APR calculates the total cost of your loan. You can use one or both to make apples-to-apples comparisons when shopping for a loan. **If you’re only focused on getting the lowest monthly payment, I’d focus on the interest rate,** but if you’re focused on the total cost of your loan, then you can use the APR as a tool to compare the total cost of two loans.
 
 I hope you found this information helpful\! If you have any questions, don’t hesitate to reach out to me. I’d love to hear from you.
