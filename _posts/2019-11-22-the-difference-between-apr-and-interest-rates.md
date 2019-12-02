@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/andre-kwan-apr-vs-interest-rates-youtube.png
-youtube_code: 'https://youtu.be/vnoFW7BCASg'
+youtube_code: 'https://youtu.be/m-xOOodqv84'
 ---
 
 {% include youtube.html %}
