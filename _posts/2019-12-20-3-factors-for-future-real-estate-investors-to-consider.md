@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/tDSAAX3mOYQ'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are three things you can expect a lender to look into if you’re thinking about investing in real estate.</em></p>
+
 On pretty much a weekly basis, we’re either asked, “How do I buy my first investment property?” or “How do I buy the next piece of real estate I want to acquire for my portfolio?”
 
 As lenders, we’ll typically look at three factors:&nbsp;
