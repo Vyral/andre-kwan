@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Factors for Future Real Estate Investors to Consider
-date: 2019-12-20 17:22:30
+date: 2019-12-20 17:22:00
 tags:
   - Budgeting for a Home
 excerpt: >-
