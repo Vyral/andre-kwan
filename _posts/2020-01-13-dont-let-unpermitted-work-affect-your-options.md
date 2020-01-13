@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/HTjyiUIi7zM'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Have you done something unpermitted to your property, like adding a certain unit? Today’s message is for you.</em></p>
+
 As we begin 2020, it’s important for you as a consumer to be aware of all the opportunities out there for you now. There’s a variety of products we offer at PrimeLending, but there is one product in particular in which many people aren’t aware. I’m excited to share it with you today.&nbsp;
 
 Sometimes, a property will have a certain unit installed in it (or contract work done to it) that is unpermitted by the county. After anything unpermitted is done, the owners will find it difficult to refinance.&nbsp;
