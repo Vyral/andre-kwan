@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/0y_88WyI-40'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s what you should know about PrimeLending’s exciting new down payment assistance product, Unison.</em></p>
+
 Not a lot of consumers are aware of the product I’m sharing today, especially first-time home buyers. There are a variety of down payment assistance programs available across the country, so exploring them all can be confusing. The specific type that I’m highlighting here acts like shared equity, and here’s what I mean by that:&nbsp;
 
 Let’s say you’re looking for a home and happen to come across one that’s a little bit too expensive; your down payment would naturally have to be greater. Typically, consumers shy away, settle for something more affordable, and adjust to smaller square footage.&nbsp;
