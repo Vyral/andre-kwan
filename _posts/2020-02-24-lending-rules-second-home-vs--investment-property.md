@@ -20,6 +20,8 @@ youtube_code: 'https://youtu.be/swqAId78JyE'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>How will you be using that additional home you’re buying? Here’s why underwriters want to know the answer.</em></p>
+
 Today we’re exploring the difference between buying a second home and buying an investment property. Typically, there are different rules at play for each scenario.&nbsp;
 
 One clear example is the down payment: **You can buy a second with as little as 10% down.** However, underwriters use a set of guidelines to make sure that your property will, in fact, be used as a residence and not as an investment.&nbsp;
