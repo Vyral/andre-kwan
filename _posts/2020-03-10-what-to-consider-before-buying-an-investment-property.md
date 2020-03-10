@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/0QMX8ItAaZo'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s what to consider if you’re thinking of buying an investment property in 2020.</em></p>
+
 If you’re thinking of buying an investment property in 2020, moving forward with the purchase mostly depends on your long-term objectives.&nbsp;
 
 If you’re able, Michael Radi, our branch manager, always recommends buying a two-, three-, or even four-unit property. One of the most important factors to consider in San Diego County is home prices.&nbsp;
