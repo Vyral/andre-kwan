@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/andre-kwan-buying-an-investment-property-youtube.jpg
-youtube_code: 'https://youtu.be/0QMX8ItAaZo'
+youtube_code: 'https://youtu.be/yJ5AnkDkpbY'
 ---
 
 {% include youtube.html %}
