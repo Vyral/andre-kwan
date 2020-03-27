@@ -30,24 +30,24 @@ client:
   url: https://lo.primelending.com/sandiego/
 
 CTAs:
-  first_CTA_text: Request Consultation
-  first_CTA_URL: https://lo.primelending.com/mradi/about/contact-me
-  second_CTA_text: Apply For A Loan
-  second_CTA_URL: https://apply.primelending.com/mradi/SPAs/UserLogin/index.html#/userLogin
+  first_CTA_text: Apply For A Loan
+  first_CTA_URL: https://apply.primelending.com/mradi/SPAs/UserLogin/index.html#/userLogin
+  # second_CTA_text: Apply For A Loan
+  # second_CTA_URL: https://apply.primelending.com/mradi/SPAs/UserLogin/index.html#/userLogin
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "Contact Us"
-    CTA_text: "Lets Talk! We can help you."
-    CTA_link_text: "Request Consultation"
-    CTA_url: https://lo.primelending.com/mradi/about/contact-me
+  - CTA_image_path: /img/cta-images/002.jpg
+    CTA_title: "The PrimeLending Experience"
+    CTA_text: "Learn about different types of loans."
+    CTA_link_text: "Loan Types"
+    CTA_url: https://lo.primelending.com/mradi/home-loans/types-of-loans
 
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "The PrimeLending Experience"
-    CTA_text2: "Learn about different types of loans."
-    CTA_link_text2: "Loan Types"
-    CTA_url2: https://lo.primelending.com/mradi/home-loans/types-of-loans
+# second_sidebar_CTA:
+#   - CTA_image_path2: /img/cta-images/002.jpg
+#     CTA_title2: "The PrimeLending Experience"
+#     CTA_text2: "Learn about different types of loans."
+#     CTA_link_text2: "Loan Types"
+#     CTA_url2: https://lo.primelending.com/mradi/home-loans/types-of-loans
 
 lender:
   show_section: false
