@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unison: A Revolutionary Program for Buyers'
+title: 'Unison: A Revolutionary Program for Buyers*'
 date: 2020-01-27 19:52:00
 tags:
   - Budgeting for a Home
@@ -42,5 +42,7 @@ For more information on this product, please contact us here at PrimeLending. We
 <u>Disclaimers</u>
 
 (1) Certain restrictions apply. Not available in all areas. Please contact your PrimeLending loan officer for more details.
+
+\* Unison is an independent investor and is not affiliated with any bank or lender. Unison offers its products with a variety of lender partners, as the lender partner offers programs without Unison deals. Each of the Unison programs and lender programs may be used independently of each other. Unison HomeBuyer Agreements and Unison HomeOwner Agreements are provided exclusively by Unison Agreement Corp., a wholly-owned subsidiary of Real Estate Equity Exchange, Inc., dba Unison. Certain restrictions apply. “Unison” is a trademark of Real Estate Equity Exchange, Inc.
 
 &nbsp;
