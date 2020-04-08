@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/6-21---andre-kwan---youtube.jpg
-youtube_code: vHL70hvZVOM
+youtube_code: 'https://youtu.be/zXHih2oK7jc'
 ---
 
 {% include youtube.html %}
