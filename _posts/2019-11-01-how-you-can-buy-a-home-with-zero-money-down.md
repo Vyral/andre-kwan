@@ -11,8 +11,8 @@ pullquote: There are a few ways you can buy a home with 100% financing.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/andre-kwan-100-financing-youtube.png
-youtube_code: 'https://youtu.be/NZuWMmKaiT0'
+youtube_alternate_image: /uploads/buying-without-money-down-youtube-1.jpg
+youtube_code: 'https://youtu.be/UXi6z_lfh8s'
 ---
 
 {% include youtube.html %}
