@@ -39,4 +39,4 @@ That brings us to our final factor: **collateral**. With a physician loan, you c
 
 Conventional and government loans are quite a bit different here too. For example, once you pass the $729,000 threshold amount here in San Diego, your loan will be considered a jumbo loan, at which point the investor(s) will require a 20% down payment. On a $1 million home loan, putting 5% as opposed to 20% down is a massive difference—$50,000 versus $200,000.&nbsp;
 
-Keep in mind that different investors go with different underwriting styles, so it’s best to meet with a service provider or mortgage professional who has ample experience working with physician loans. We at PrimeLending have multiple investors who’d be happy to lend their experience and expertise. If you have any questions or would like more information, please let us know. We look forward to serving you\!
+Keep in mind that different investors go with different underwriting styles, so it’s best to meet with a service provider or mortgage professional who has ample experience working with physician loans. If you have any questions or would like more information, please let us know. We look forward to serving you\!
