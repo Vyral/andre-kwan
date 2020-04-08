@@ -14,16 +14,16 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/andre-kwan-ss--lender-email.jpg
-youtube_code: J-GJOk_2CPM
+youtube_code: 'https://youtu.be/LRqjZxM7tr0'
 ---
 
 {% include youtube.html %}
 
-**We’re asked all the time by clients, agents, and referral partners, “Why are your guys the best lenders, and how do we get the best rates and programs possible?” **
+**We’re asked all the time by clients, agents, and referral partners, “Why are your guys the best lenders, and how do we get the best rates and programs possible?”&nbsp;**
 
 Each individual case is different, but we truly want you to get some knowledge out of this so we’re going to let you know exactly how to go about finding the answer to this question yourself.
 
-**I’d always start off by getting a written loan estimate.** This allows you to compare apples to apples across individual lenders. 
+**I’d always start off by getting a written loan estimate.** This allows you to compare apples to apples across individual lenders.&nbsp;
 
 {% include pullquote.html %}
 
