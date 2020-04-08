@@ -15,8 +15,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/9-12---andre-kwan---youtube.jpg
-youtube_code: 'https://youtu.be/hU1oVlegbok'
+youtube_alternate_image:
+youtube_code: 'https://youtu.be/OaVdd4vF_VU'
 ---
 
 {% include youtube.html %}
