@@ -25,9 +25,9 @@ If you’re a homebuyer but the home you want to purchase is in need of some maj
 
 Where can you find renovation loans, though? What are their qualifications?&nbsp;
 
-In our marketplace, the mortgage products that allow a renovation loan are **the FHA 203(k) loan, the conventional Fannie Mae homestyle loan, and Freddie Mac’s HomeReady loans.&nbsp;**
+In our marketplace, the mortgage products that allow a renovation loan are **the FHA 203(k) loan, the conventional Fannie Mae homestyle loan, and Freddie Mac’s CHOICE Renovation loans.&nbsp;**
 
-In the case of Freddie Mac’s HomeReady loans, neither of them have a limit in terms of how many repairs can be done, but any repairs that cost over $35,000 require a HUD consultant. Basically, the consultant makes sure the costs are in line with the overall average and that the work is on time and up to standard.
+In the case of Freddie Mac’s CHOICE Renovation loans, neither of them have a limit in terms of how many repairs can be done, but any repairs that cost over $35,000 require a HUD consultant. Basically, the consultant makes sure the costs are in line with the overall average and that the work is on time and up to standard.
 
 {% include pullquote.html %}
 
