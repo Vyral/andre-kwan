@@ -15,13 +15,13 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/andre-kwan-apr-vs-interest-rates-youtube.png
-youtube_code: 'https://youtu.be/m-xOOodqv84'
+youtube_alternate_image: /uploads/andre-kwan-ss-2.jpg
+youtube_code: 'https://youtu.be/T-gT_VrA7oA'
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Knowing the difference between interest rates and annual percentage rates could save you thousands on your mortgage. Here’s what you need to know.</em></p>
+*Knowing the difference between interest rates and annual percentage rates could save you thousands on your mortgage. Here’s what you need to know.*
 
 What is the difference between annual percentage rates (APR) and interest rates? **Both rates measure important, but distinct, costs associated with your home loan,** and understanding the difference between the two could save you thousands on your mortgage.&nbsp;
 
