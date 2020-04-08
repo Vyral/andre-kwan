@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/may02ss-email.jpg
-youtube_code: D2oZuUOw78w
+youtube_code: 'https://youtu.be/gdmAg-DgjyU'
 ---
 
 {% include youtube.html %}
