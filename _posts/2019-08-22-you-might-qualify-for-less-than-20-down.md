@@ -23,6 +23,8 @@ A popular myth that circulates among buyers today is that you’ll need to put a
 
 If you have any questions or would like to go over your options, please contact us today by phone at 1-833-760-9979 or send us an email at SoCal@PrimeLending.com. We look forward to serving you\!
 
+<u>Disclaimers</u>
+
 1\. Certain restrictions apply. Not available in all areas. Please contact your PrimeLending loan officer for more details.
 
 &nbsp;
