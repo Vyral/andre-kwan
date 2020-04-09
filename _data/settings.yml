@@ -5,10 +5,10 @@ show_custom_links: false
 custom_links:
   - title: Download Checklist
     url: https://drive.google.com/open?id=1asKI2GToeHBUq5glJEF8CD7jaA76N4_n
-show_custom_links_new_tab: false
+show_custom_links_new_tab: true
 custom_links_new_tab:
-  - title: Apply Now
-    url: https://apply.primelending.com/andre.kwan/SPAs/UserLogin/index.html
+  - title: Our Team
+    url: https://lo.primelending.com/sandiego/#branchLoList
 
 client:
   name: PrimeLending
@@ -22,7 +22,7 @@ client:
   brokerage:
   market: San Diego
   address: 3131 Camino Del Rio N, Suite 1620<br>San Diego, CA 92108
-  phone: toll-free 1-800-887-6174
+  phone: Toll-Free 1-800-887-6174
   phone_type:
   phone2:
   phone2_type:
@@ -40,7 +40,7 @@ sidebar_CTA:
     CTA_title: "The PrimeLending Experience"
     CTA_text: "Learn about different types of loans."
     CTA_link_text: "Loan Types"
-    CTA_url: https://lo.primelending.com/mradi/home-loans/types-of-loans
+    CTA_url: https://lo.primelending.com/sandiego/our-process
 
 # second_sidebar_CTA:
 #   - CTA_image_path2: /img/cta-images/002.jpg
@@ -64,11 +64,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  youtube_url:
+  facebook_url: https://www.facebook.com/SoCal-Primelending-112192456794353/
+  linkedin_url: https://www.linkedin.com/company/socal-primelending/?viewAsMember=true
+  youtube_url: https://www.youtube.com/channel/UCkpJou7L58V6Ncmeb5VVdUw
   twitter_url:
-  instagram_url:
+  instagram_url: https://www.instagram.com/socalprimelending/
   pinterest_url:
   zillow_url:
   trulia_url:
@@ -93,8 +93,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#bf2e1b'
-  theme_color: '#5a5b5d'
+  brand_color: '#be301a'
+  theme_color: '#595a5e'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -103,7 +103,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: '#0F3A43'
+  shadow_color: '#067f88'
 
 buttons:
   button_radius_number: 0
@@ -111,7 +111,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: transparent
-  button_text_color: '#123456'
+  button_text_color: '#be301a'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
