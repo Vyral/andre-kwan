@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/andre-kwan-investment-real-estate-youtube2.jpg
-youtube_code: 'https://youtu.be/tDSAAX3mOYQ'
+youtube_code: 'https://youtu.be/lF2WOGlm--w'
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are three things you can expect a lender to look into if you’re thinking about investing in real estate.</em></p>
+*Here are three things you can expect a lender to look into if you’re thinking about investing in real estate.*
 
 On pretty much a weekly basis, we’re either asked, “How do I buy my first investment property?” or “How do I buy the next piece of real estate for my portfolio?”
 
