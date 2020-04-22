@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/andre-kwan-ss-2.jpg
-youtube_code: 'https://youtu.be/T-gT_VrA7oA'
+youtube_code: 'https://youtu.be/3xg6Hqkvr1A'
 ---
 
 {% include youtube.html %}
