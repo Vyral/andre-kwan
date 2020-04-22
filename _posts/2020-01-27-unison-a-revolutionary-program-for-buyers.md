@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/andre-kwan-down-payment-assistance-youtube.jpg
-youtube_code: 'https://youtu.be/P6QmHAquaes'
+youtube_code: 'https://youtu.be/Nx9c-P5WhEM'
 ---
 
 {% include youtube.html %}
