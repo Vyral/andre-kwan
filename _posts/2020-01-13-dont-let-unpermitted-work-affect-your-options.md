@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/1-2---andre-kwan---yt.jpg
-youtube_code: 'https://youtu.be/QnX6o6OYpVE'
+youtube_code: 'https://youtu.be/unQocVh2eUc'
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Have you done something unpermitted to your property, like adding a certain unit? Today’s message is for you.</em></p>
+*Have you done something unpermitted to your property, like adding a certain unit? Today’s message is for you.*
 
 As we begin 2020, it’s important for you as a consumer to be aware of all the opportunities out there for you now. There’s a variety of products we offer at PrimeLending, but there is one product in particular in which many people aren’t aware. I’m excited to share it with you today.&nbsp;
 
